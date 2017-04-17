@@ -12,9 +12,9 @@ var notify = require('gulp-notify');
 var documentRoot = './';
 
 var src = {
-      'scss': documentRoot + '**/css/',
-      'css' : documentRoot
-    };
+  'scss': documentRoot + '**/css/',
+  'css' : documentRoot
+}
 
 var options = {
 
