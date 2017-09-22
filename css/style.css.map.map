@@ -1,1 +1,0 @@
-{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,KAAK,cAAc,CAAC,KAAK,aAAa,qBAAA,AAAa,aAAA,uBAAA,AAAc,cAAA,CAAC","file":"style.css.map","sourcesContent":["body{font-size:20px}body{color:tomato;display:flex;flex-wrap:wrap}\n"]}
